@@ -43,4 +43,4 @@ Open-source projects from the TencentQQ multimodal technology team for multimoda
 
 TencentQQ Multimodal Research builds open-source model, evaluation, and training-system components for practical multimodal AI. This organization collects public projects from the team and links to closely related infrastructure projects maintained in dedicated organizations when a project grows into its own ecosystem.
 
-**Tech Lead & Maintainer**: [Dian Li](https://github.com/lidian007) maintains this organization profile and coordinates Tencent-QQMM open-source project presentation.
+**Tech Lead & Maintainer**: [Dian Li](https://github.com/lidian007)
