@@ -12,6 +12,8 @@ Open-source projects from the TencentQQ multimodal technology team for multimoda
 ## Latest Updates
 
 - **Jun 2026**: [Online Dynamic Batching](https://github.com/online-dynamic-batching/online-dynamic-batching) is now available as a dedicated training-system project, with the arXiv paper [Online Dynamic Batching with Formal Guarantees for LLM Training](https://arxiv.org/abs/2606.19989).
+- **Jun 2026**: [skill-evolver](https://github.com/Tencent-QQMM/skill-evolver) is released as an evidence-scored, safety-gated skill evolution framework for AI agents.
+- **May 2026**: [LiveK12Bench](https://github.com/Tencent-QQMM/LiveK12Bench) is released for evaluating large multimodal models on high-school-level examinations, with the arXiv paper [LiveK12Bench](https://arxiv.org/abs/2605.26781).
 
 ## Focus Areas
 
