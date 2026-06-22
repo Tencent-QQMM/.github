@@ -19,9 +19,9 @@ Open-source projects from the TencentQQ multimodal technology team for multimoda
 
 | Area | Projects | What to find |
 | --- | --- | --- |
-| Multimodal models | [Video-CCAM](https://github.com/Tencent-QQMM/Video-CCAM), [PureMM](https://github.com/Tencent-QQMM/PureMM) | Video and multimodal model research, lightweight architectures, and training resources. |
+| Multimodal models | [Video-CCAM](https://github.com/Tencent-QQMM/Video-CCAM), [PureMM](https://github.com/Tencent-QQMM/PureMM), [ChipTuning](https://github.com/Tencent-QQMM/ChipTuning) | Video and multimodal model research, lightweight architectures, and training resources. |
 | Embedding and retrieval | [QQMM-embed](https://github.com/Tencent-QQMM/QQMM-embed) | Multimodal representation learning and retrieval-oriented model resources. |
-| Evaluation and reasoning | [LiveK12Bench](https://github.com/Tencent-QQMM/LiveK12Bench), [Fact-R1](https://github.com/Tencent-QQMM/Fact-R1), [ChipTuning](https://github.com/Tencent-QQMM/ChipTuning) | Benchmarks, reasoning studies, and analysis tools for multimodal systems. |
+| Evaluation and reasoning | [LiveK12Bench](https://github.com/Tencent-QQMM/LiveK12Bench), [Fact-R1](https://github.com/Tencent-QQMM/Fact-R1) | Benchmarks, reasoning studies, and analysis tools for multimodal systems. |
 | Training systems | [Online Dynamic Batching](https://github.com/online-dynamic-batching/online-dynamic-batching) | Faster LLM and VLM fine-tuning with online post-preprocessing length observation. |
 | Agent tools | [skill-evolver](https://github.com/Tencent-QQMM/skill-evolver) | Evidence-scored skill evolution workflows for AI agents. |
 
