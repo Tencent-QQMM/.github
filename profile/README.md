@@ -9,6 +9,10 @@ Open-source projects from the TencentQQ multimodal technology team for multimoda
 
 </div>
 
+## Latest Updates
+
+- **Jun 2026**: [Online Dynamic Batching](https://github.com/online-dynamic-batching/online-dynamic-batching) is now available as a dedicated training-system project, with the arXiv paper [Online Dynamic Batching with Formal Guarantees for LLM Training](https://arxiv.org/abs/2606.19989).
+
 ## Focus Areas
 
 | Area | Projects | What to find |
