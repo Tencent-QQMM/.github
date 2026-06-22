@@ -6,8 +6,6 @@ Open-source projects from the TencentQQ multimodal technology team for multimoda
 
 [![GitHub organization](https://img.shields.io/badge/GitHub-Tencent--QQMM-181717?logo=github)](https://github.com/Tencent-QQMM)
 [![Projects](https://img.shields.io/badge/projects-multimodal%20AI-blue)](https://github.com/Tencent-QQMM?tab=repositories)
-[![Training systems](https://img.shields.io/badge/training%20systems-ODB-red)](https://github.com/online-dynamic-batching/online-dynamic-batching)
-[![Paper](https://img.shields.io/badge/arXiv-2606.19989-b31b1b)](https://arxiv.org/abs/2606.19989)
 
 </div>
 
